@@ -10,7 +10,7 @@ bl_info = {
     "location": "3DView -> Side Panel -> Misc -> Playback",
     "description": "Changes playback behaviour of the spacebar to match other video software (play/stop instead of play/pause).\nAlso adds a Play/Stop button in the 3D views right panel",
     "warning": "",
-    "doc_url": "",
+    "doc_url": "https://github.com/ModellbahnFreak/BlenderCustomPlayStop/blob/master/README.md",
     "category": "Animation",
 }
 
